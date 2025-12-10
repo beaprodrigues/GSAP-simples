@@ -18,9 +18,11 @@ O projeto exibe um quadrado roxo centralizado em uma tela preta. Ao carregar a p
 
 ## Estrutura dos Arquivos
 
-* `index.html`: Arquivo principal que importa o script e a biblioteca GSAP.
-* `style.css`: Define o container preto e o estilo inicial do quadrado.
-* `script.js`: Contém o código da animação `gsap.to()`.
+```text
+/
+├── index.html
+├── style.css            
+└── script.js 
 
 ## Como executar o projeto
 
