@@ -19,7 +19,6 @@ O projeto exibe um quadrado roxo centralizado em uma tela preta. Ao carregar a p
 ## Estrutura dos Arquivos
 
 ```text
-/
 ├── index.html
 ├── style.css            
 └── script.js 
